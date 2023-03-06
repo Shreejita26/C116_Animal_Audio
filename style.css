@@ -1,0 +1,33 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gainsboro;
+}
+.header_div{
+     background-color: darkgrey;
+}
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.main_div button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
+    width: 140px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 16px;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
